@@ -10,9 +10,13 @@ screenshots of the [`master`](https://github.com/jsmaniac/travis-os/) branch,
 simply go to the main [`travis-os`](https://github.com/jsmaniac/travis-os/)
 repository.
 
-## QEMU
+## QEMU (floppy disk)
 
-![Latest screenshot of the operating system running in QEMU](https://raw.githubusercontent.com/jsmaniac/travis-os-deploy-artifacts/screenshots-dev-qemu-system-i386/qemu-system-i386.png)
+![Latest screenshot of the operating system running in QEMU, booted as a floppy disk](https://raw.githubusercontent.com/jsmaniac/travis-os-deploy-artifacts/screenshots-dev-qemu-system-i386-floppy/qemu-system-i386-floppy.png)
+
+## QEMU (CD-ROM)
+
+![Latest screenshot of the operating system running in QEMU, booted as a CD-ROM](https://raw.githubusercontent.com/jsmaniac/travis-os-deploy-artifacts/screenshots-dev-qemu-system-i386-cdrom/qemu-system-i386-cdrom.png)
 
 ## VirtualBox
 
